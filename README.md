@@ -1,5 +1,5 @@
 # Description
-A console-based Java program which offers different information about given numbers (such as parity, sign, whether if they prime or not, whether they are a perfect square or not), meant to showcase the implementation of 5 different design patterns
+A console-based Java program which offers different information about given numbers (such as parity, sign, whether they prime or not, whether they are a perfect square or not), meant to showcase the implementation of 5 different design patterns
 
 This program could easily be extended to include different computations made on numbers, such as alculate and display factors of a number, check if a number is a Fibonacci number, determine if a number is a palindrome, check if the number is part of any other special series etc.
 
